@@ -1,7 +1,7 @@
 *~
-node_modules
+node_modules/
 .DS_Store
 npm-debug.log
 .idea
-*.html
-assets/bundle.js
+examples/
+src/
